@@ -5,12 +5,12 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 
 ## Task1 - Landing Page
 A Landing Page created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task1)
+[Live](https://KAMYAVERMA.github.io/OIBGRIP/Task-01)
 
 ## Task2 - Portfolio
 A Portfolio page is created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task2)
+[Live](https://KAMYAVERMA.github.io/OIBGRIP/Task-02)
 
 ## Task3 - Temperature converter Website
 A Temperature converter website is created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task3)
+[Live](https://KAMYAVERMA.github.io/OIBGRIP/Task-03)
